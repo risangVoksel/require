@@ -1,0 +1,23 @@
+{
+  "name": "beta-require",
+  "version": "1.0.0",
+  "description": "Test Require File",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risangVoksel/require.git"
+  },
+  "keywords": [
+    "require",
+    "update"
+  ],
+  "author": "risang.voksel@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/risangVoksel/require/issues"
+  },
+  "homepage": "https://github.com/risangVoksel/require#readme"
+}
